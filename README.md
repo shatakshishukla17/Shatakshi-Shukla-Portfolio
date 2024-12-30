@@ -1,4 +1,4 @@
-# Satakshi's Portfolio
+# Shatakshi's Portfolio
 
 Welcome to my portfolio website! This is a showcase of my skills, projects, and achievements, designed to provide a glimpse into my journey as a developer and tech enthusiast.
 
